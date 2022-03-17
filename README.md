@@ -1,14 +1,21 @@
 ### Hi <img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="75px">
 
-**Ponseotaku/ponseotaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Networking Platform
+<a href="https://twitter.com/elnastech">
+  <img align="left" alt="Elnast | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+# Game Development
+<a href="https://twitter.com/inob3d">
+  <img align="left" alt="Elnast | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Networking Community
+<a href="https://twitter.com/encurest">
+  <img align="left" alt="Elnast | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/jayponce/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
