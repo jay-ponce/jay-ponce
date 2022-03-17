@@ -1,4 +1,4 @@
-### <h1>Hi</h1> <img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="75px">
+<h1>Hi</h1> <img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="75px">
 
 # Networking Platform
 <a href="https://twitter.com/elnastech">
