@@ -3,7 +3,7 @@
 # Jay Ponce
 # Hi <img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="75px">
 <br>
-I'm Jay, and I do networking, security, programming, and starting game development. I have 12 years of experience in IT and held jobs from System Administrator to Networking and Security to Software Engineering. I'm currently working at Cisco creating software that automates the network and audit reports to keep business utilizing Cisco products connected.
+I'm Jay, and I do networking, security, programming, and recently started game development. I have 12 years of experience in IT and held jobs from System Administrator to Networking and Security to Software Engineering. I'm currently working at Cisco creating software that automates the network and audit reports to keep business utilizing Cisco products connected.
 <br><br>
 My goal is to teach all 7 layers in the OSI Model to help engineers around the globe and create security tools to expand data privacy.
 
