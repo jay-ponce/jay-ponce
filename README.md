@@ -31,7 +31,7 @@ My goal is to teach all 7 layers in the OSI Model to help engineers around the g
 </a>
 
 
-### :ninja: Aanom | Open source security SAAS :ninja:
+### :ninja: Aanom | Open source privacy SAAS :ninja:
 <a href="https://github.com/aanominc">
   :octocat: 
 </a>
