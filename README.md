@@ -46,8 +46,53 @@ My goal is to teach all 7 layers in the OSI Model to help engineers around the g
 - [Personal Website](https://www.jayponce.com)
 
 ## Skills
+<details>	
+  <summary><b>Code </b></summary>
 
-<p>
-  
-</p>
+  <br />
+  <p>
+   <img src="https://img.icons8.com/plasticine/40/ffffff/bash.png"/>
+   <img src="https://img.icons8.com/material-outlined/40/ffffff/c-plus-plus.png"/>
+   <img src="https://img.icons8.com/ios-filled/40/ffffff/c-sharp-logo.png"/>
+   <img src="https://img.icons8.com/ios/40/ffffff/java-coffee-cup-logo--v1.png"/>
+   <img src="https://img.icons8.com/ios-filled/40/ffffff/javascript.png"/>
+   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/php.png"/>
+   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/python.png"/>
+   <img src="https://img.icons8.com/material-outlined/40/ffffff/css.png"/>
+   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/html.png"/>
+  </p>
+</details>
+
+
+<details>	
+  <summary><b>Frameworks </b></summary>
+
+  <br />
+  <p>
+    <img src="https://img.icons8.com/ios/50/ffffff/django.png"/>
+    <img src="https://img.icons8.com/ios/50/ffffff/flask.png"/>
+    <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/>
+  </p>
+</details>
+
+<details>	
+  <summary><b>Tools </b></summary>
+
+  <br />
+  <p>
+     <img src="https://img.icons8.com/ios/50/ffffff/git.png"/>
+     <img src="https://img.icons8.com/fluency/50/ffffff/visual-studio.png"/>
+     <img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/>
+     <img src="https://img.icons8.com/material-outlined/50/ffffff/arch-linux.png"/>
+     <img src="https://img.icons8.com/dotty/50/ffffff/macbook.png"/>
+     <img src="https://img.icons8.com/fluency/50/000000/windows-10.png"/>
+     <img src="https://img.icons8.com/color/48/000000/jira.png"/>
+  </p>
+</details>
+
+## Let's work together
+
+- jay@jayponce.com
+- <a href="https://github.com/aanominc">Contribute at :octocat: </a>
 
