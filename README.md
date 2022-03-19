@@ -9,7 +9,7 @@ My goal is to teach all 7 layers in the OSI Model to help engineers around the g
 
 ## Things I'm building -
 
-### :office: Encurest | Networking Community
+### :office: Encurest | Non-profit Networking Community
 
 <a href="https://www.encurest.com">
         :spider_web:
