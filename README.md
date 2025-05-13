@@ -1,98 +1,97 @@
-![Jay Ponce](https://github.com/jay-ponce/jay-ponce/blob/1c94f9df67ee95c308f6526cd897192a179f815a/banner.gif)
+<img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="150px" align="right" />
 
-# Jay Ponce
-# Hi <img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="75px">
-<br>
-I'm Jay, and I do networking, security, programming, and recently started game development! I have 12 years of experience in IT and held jobs from System Administrator to Networking and Security to Software Engineering. I'm currently working at Cisco creating software that automates the network and audit reports.
-<br><br>
-My goal is to teach all 7 layers in the OSI Model to help engineers around the globe and create security tools to expand data privacy.
+Hi, I’m your go-to tech architect for building effective networks, robust systems, and empowered engineering teams. With over 12 years of experience solving complex problems across networking, security, cloud, and DevOps, I bring a blend of hands-on engineering, strategic thinking, and a focus on delivering real business value.
 
-## Things I'm building -
+I leverage proven tools and strategies to manage infrastructure and deliver solutions that address real-world challenges. Whether it’s implementing strong security measures, mentoring new engineers, or tackling tough technical problems, I’m ready to dive in.
 
-### :office: Encurest | Non-profit Networking Community
+🎯 My mission is to simplify complexity, elevate security, and empower the next generation of engineers through community, automation, and accessible knowledge.
 
-<a href="https://www.encurest.com">
-        :spider_web:
-</a>
-<a href="https://www.twitter.com/encurest">
-  <img align="left" alt="Encurest | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/company/encurest">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+---
 
-### :school: Elnast | Learn Networking, Systems, and Programming
+## 🚀 What I'm Building
 
-<a href="https://www.elnast.com">
-        :spider_web:
-</a>
-<a href="https://www.twitter.com/elnastech">
-  <img align="left" alt="Encurest | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+### 🛡️ [Encurest](https://www.encurest.com) — Nonprofit for Network & Security Professionals  
+Building a global movement to uplift engineers through local chapters, mentorship, hands-on labs, and career tools. <a href="https://twitter.com/encurest">
+  <img src="https://img.icons8.com/color/28/000000/twitter--v1.png" alt="Twitter"/> </a> <a href="https://www.linkedin.com/company/encurest">
+  <img src="https://img.icons8.com/color/28/000000/linkedin.png" alt="LinkedIn"/> </a>
 
+---
 
-### :ninja: Aanom | Open source privacy SAAS :ninja:
-<a href="https://github.com/aanominc">
-  :octocat: 
-</a>
+## 🛠 Tech Focus Areas
 
-<a href="https://www.aanom.org">
-        :spider_web:
-</a>
-
-## 📝 Blogs
-- [Game Development and Entertainment](https://www.inob.io)
-- [Personal LinkedIn](https://www.linkedin.com/in/jayponce)
-- [Personal Website](https://www.jayponce.com)
-
-## Skills
-<details>	
-  <summary><b>Code </b></summary>
-
-  <br />
-  <p>
-   <img src="https://img.icons8.com/plasticine/40/ffffff/bash.png"/>
-   <img src="https://img.icons8.com/material-outlined/40/ffffff/c-plus-plus.png"/>
-   <img src="https://img.icons8.com/ios-filled/40/ffffff/c-sharp-logo.png"/>
-   <img src="https://img.icons8.com/ios/40/ffffff/java-coffee-cup-logo--v1.png"/>
-   <img src="https://img.icons8.com/ios-filled/40/ffffff/javascript.png"/>
-   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/php.png"/>
-   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/python.png"/>
-   <img src="https://img.icons8.com/material-outlined/40/ffffff/css.png"/>
-   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/html.png"/>
-  </p>
+<details>
+  <summary><strong>🌐 Networking & Security</strong></summary>
+  <ul>
+    <li>Cisco Firepower, ASA, FMC, ISE, Duo MFA, Check Point, Meraki</li>
+    <li>VPN (IPSec, SSL), NAT/PAT, ACLs, Zero Trust, SASE</li>
+    <li>BGP, OSPF, EIGRP, VLANs, Port Security, MACsec, STP, HSRP, LACP</li>
+    <li>Hybrid Cloud Security, Segmentation, Policy Enforcement, TACACS, RADIUS</li>
+  </ul>
 </details>
 
-
-<details>	
-  <summary><b>Frameworks </b></summary>
-
-  <br />
-  <p>
-    <img src="https://img.icons8.com/ios/50/ffffff/django.png"/>
-    <img src="https://img.icons8.com/ios/50/ffffff/flask.png"/>
-    <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/>
-  </p>
+<details>
+  <summary><strong>☁️ Cloud & DevOps</strong></summary>
+  <ul>
+    <li>AWS (EC2, Lambda, S3, VPC, CloudFront, Route 53, Transit Gateway)</li>
+    <li>Azure Virtual Network, Direct Connect, CloudFormation, ARM Templates</li>
+    <li>Terraform, Docker, Jenkins, GitHub Actions, Kubernetes (KCNA), OpenShift</li>
+    <li>CI/CD pipelines, GitOps, Infrastructure as Code, Secrets Management</li>
+    <li>SonarQube, Ansible, bash/shell scripting, observability and compliance automation</li>
+  </ul>
 </details>
 
-<details>	
-  <summary><b>Tools </b></summary>
-
-  <br />
-  <p>
-     <img src="https://img.icons8.com/ios/50/ffffff/git.png"/>
-     <img src="https://img.icons8.com/fluency/50/ffffff/visual-studio.png"/>
-     <img src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/>
-     <img src="https://img.icons8.com/material-outlined/50/ffffff/arch-linux.png"/>
-     <img src="https://img.icons8.com/dotty/50/ffffff/macbook.png"/>
-     <img src="https://img.icons8.com/fluency/50/000000/windows-10.png"/>
-     <img src="https://img.icons8.com/color/48/000000/jira.png"/>
-  </p>
+<details>
+  <summary><strong>🐧 Systems & Monitoring Tools</strong></summary>
+  <ul>
+    <li>Linux (Ubuntu, RHEL, Kali), Windows Server, macOS</li>
+    <li>VMware ESXi, Proxmox, Hyper-V, Active Directory, DNS, DHCP, SCCM</li>
+    <li>Wireshark, tcpdump, NetFlow, SNMP, CloudWatch</li>
+    <li>Jira, Confluence, Git, Visual Studio Code, Figma</li>
+    <li>SonarQube, log parsers, custom telemetry/reporting tools</li>
+  </ul>
 </details>
 
-## Let's work together
+<details>
+  <summary><strong>💻 Programming & Frameworks</strong></summary>
+  <ul>
+    <li>Python, JavaScript, PHP, Bash, SQL, TypeScript, C++, C#</li>
+    <li>Django, Flask, Angular, Laravel, Express.js, FastAPI, ASP.NET</li>
+    <li>REST APIs, full-stack apps, CLI tooling, log parsing, automation scripts</li>
+  </ul>
+</details>
 
-- jay@jayponce.com
-- <a href="https://github.com/aanominc">Contribute at :octocat: </a>
+<details>
+  <summary><strong>🧠 AI & Emerging Tech</strong></summary>
+  <ul>
+    <li>Prompt Engineering, Generative AI Blue & Green Belts @Cisco</li>
+    <li>LLMs, Hugging Face, PyTorch, TensorFlow</li>
+    <li>Data Privacy, ML Pipelines, secure AI deployment models</li>
+  </ul>
+</details>
 
+---
+
+## 📚 What I'm Learning Now
+
+- Building scalable platforms using Django, PostgreSQL, and Tailwind  
+- Advanced cloud networking like VXLAN, EVPN, and AWS Transit Gateway  
+- Architecting zero trust models for multi-cloud environments  
+- Streamlining CI/CD with GitHub Actions, Docker, and Terraform  
+- Growing open-source communities and nonprofit ecosystems  
+
+---
+
+## 🤝 Let’s Connect
+
+<a href="mailto:jay@jayponce.com">
+  <img src="https://img.icons8.com/fluency/28/000000/apple-mail.png" alt="Email"/>
+</a>
+<a href="https://www.jayponce.com">
+  <img src="https://img.icons8.com/color/28/000000/internet.png" alt="Website"/>
+</a>
+<a href="https://www.linkedin.com/in/jayponce">
+  <img src="https://img.icons8.com/color/28/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/encurest">
+  <img src="https://img.icons8.com/fluency/28/000000/github.png" alt="GitHub"/>
+</a>
