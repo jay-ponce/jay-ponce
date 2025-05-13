@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/tP0T8nA2sRlqKvYjg6/giphy.gif" width="150px" align="right" />
+## 👋 About Me
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRqNGJia2xweGx2cGQyM3p0NzA1Z3FpYTB0Zmt4NmF4c2Q3ZWhqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="150px" align="right" />
 
 Hi, I’m your go-to tech architect for building effective networks, robust systems, and empowered engineering teams. With over 12 years of experience solving complex problems across networking, security, cloud, and DevOps, I bring a blend of hands-on engineering, strategic thinking, and a focus on delivering real business value.
 
@@ -13,7 +14,8 @@ I leverage proven tools and strategies to manage infrastructure and deliver solu
 ### 🛡️ [Encurest](https://www.encurest.com) — Nonprofit for Network & Security Professionals  
 Building a global movement to uplift engineers through local chapters, mentorship, hands-on labs, and career tools. <a href="https://twitter.com/encurest">
   <img src="https://img.icons8.com/color/28/000000/twitter--v1.png" alt="Twitter"/> </a> <a href="https://www.linkedin.com/company/encurest">
-  <img src="https://img.icons8.com/color/28/000000/linkedin.png" alt="LinkedIn"/> </a>
+  <img src="https://img.icons8.com/color/28/000000/linkedin.png" alt="LinkedIn"/> </a> <a href="https://github.com/encurest" title="Encurest GitHub">
+  <img src="https://img.icons8.com/fluency/28/000000/github.png" alt="GitHub"/> </a>
 
 ---
 
@@ -71,7 +73,7 @@ Building a global movement to uplift engineers through local chapters, mentorshi
 
 ---
 
-## 📚 What I'm Learning Now
+## ⚙️ Behind the Scenes
 
 - Building scalable platforms using Django, PostgreSQL, and Tailwind  
 - Advanced cloud networking like VXLAN, EVPN, and AWS Transit Gateway  
@@ -91,7 +93,4 @@ Building a global movement to uplift engineers through local chapters, mentorshi
 </a>
 <a href="https://www.linkedin.com/in/jayponce">
   <img src="https://img.icons8.com/color/28/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/encurest">
-  <img src="https://img.icons8.com/fluency/28/000000/github.png" alt="GitHub"/>
 </a>
